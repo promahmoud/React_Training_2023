@@ -1,0 +1,80 @@
+.intro3 {
+      background: url('../../assets/3.jpg') no-repeat center;
+      padding: 150px 0 150px;
+      background-size: cover;
+}
+.intro {
+      position: relative;
+}
+.intro3 h3 {
+      color: #43121d;
+      margin: 0px 0px 25px;
+      font-size: 48px;
+      letter-spacing: 0;
+      color: #43121d;
+      font-family: 'Quicksand', sans-serif;
+      font-weight: 700;
+}
+.intro3 p {
+      font-size: 16px;
+      font-weight: 400;
+      color: #555555;
+      padding: 0 0 13px;
+      line-height: 28px;
+      font-family: 'Roboto', sans-serif;
+      letter-spacing: 0.5px;
+}
+.space30 {
+      margin-bottom: 30px;
+}
+.btn.btn-lg {
+      font-size: 14px;
+}
+
+
+.btn.btn-default {
+      color: #000;
+      background-color: #ffffff;
+      border: 3px solid #fff;
+}
+a.btn {
+      font-size: 16px;
+      line-height: 20px;
+      font-weight: bold;
+      text-transform: capitalize;
+      padding: 11px 28px !important;
+      border: none;
+      border-radius: 0px !important;
+      font-family: 'Roboto', sans-serif;
+      webkit-box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+      -moz-box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+      -ms-box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+      -o-box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+      box-shadow: 0px 2px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+a.btn svg{
+      margin-left: 12px;
+      position: relative;
+      top: 0px;
+      font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 993px) and (max-width: 4000px){
+      .center-content {
+            display: flex;
+            align-items: center;
+            flex-direction: row;
+      }
+}

@@ -1,0 +1,34 @@
+#stats2 {
+      padding: 40px 0;
+}
+
+.bg-primary1 {
+      background: #a82d49 !important;
+      color: #fff;
+}
+.stats2-info {
+      text-align: center;
+
+}
+.stats2-info p {
+      color: #fff;
+      font-size: 40px;
+      margin: 0 0 20px;
+      font-family: Quicksand;
+      font-weight: 700;
+      line-height: 28px;
+}
+.stats2-info h2 {
+      color: #fff;
+      font-size: 12px;
+      font-family: Roboto;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      font-weight: 700;
+}
+.stats2-info svg{
+      color: #fff;
+      font-size: 40px;
+      margin: 0 auto 25px;
+      display: table;
+  }

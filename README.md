@@ -1,28 +1,6 @@
-# All react projects that I created 2023
-
-1-Material UI 5 (MUI) React Tutorial | MUI Responsive Real Project.\
-
-Repo: [.../MUI_React](https://github.com/promahmoud/React_Training_2023/tree/MUI_React)
-
-![](./MUI_React/img1.png)
-=====================================================================
-2- Foodera react food landing page template
+![](./full.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-----------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
