@@ -1,11 +1,11 @@
 # All react projects that I created 2023
 
-1- [Material UI 5 (MUI) React Tutorial | MUI Responsive Real Project](https://github.com/promahmoud/React_Training_2023/tree/MUI_React)
+1- Material UI 5 (MUI) React Tutorial | MUI Responsive Real Project [Link](https://github.com/promahmoud/React_Training_2023/tree/MUI_React)
 
 
 ![](./MUI_React/img1.png)
 =====================================================================
-2- [Foodera react food landing page template](https://github.com/promahmoud/React_Training_2023/tree/Restaurant_React)
+2- Foodera react food landing page template [Link](https://github.com/promahmoud/React_Training_2023/tree/Restaurant_React)
 ![](./Restaurant_React/part.png)
 
 
