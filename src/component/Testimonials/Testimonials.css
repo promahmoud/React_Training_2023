@@ -1,0 +1,49 @@
+.testimonials-color {
+      background-color: #a82d49;
+      padding-bottom: 80px;
+}
+
+.testimonials-color h3 {
+      color: #fff;
+}
+
+#reviews .carousel {
+      display: block;
+      background: #fff;
+      padding: 25px;
+      border-radius: 15px;
+      width: 100%;
+
+}
+
+#reviews .carousel-item {
+      height: 300px;
+}
+
+#reviews .carousel-item img {
+      max-width: 80px;
+      border-radius: 50%;
+      background: #fff;
+      padding: 5px;
+}
+
+.carousel-item .carousel-caption p {
+      font-size: 21px;
+      line-height: 33px;
+      font-weight: 300;
+      color: #111;
+      padding: 0 3% 20px;
+      letter-spacing: 0;
+}
+
+#reviews .carousel-item  h3{
+      font-weight: bold;
+      font-size: 16px;
+      text-transform: capitalize;
+      letter-spacing: 0.2px;
+      color: #a82d49;
+
+}
+.carousel-indicators{
+      bottom: -3rem;
+}
